@@ -5,7 +5,7 @@ categories:
   - content/data/categories/category-sdvyen0g1.json
 thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
-image: images/post-1.jpg
+image: /images/cielo-azul.webp
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-

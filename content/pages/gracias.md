@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Gracias!
     subtitle: >-
-      Gracias por !
+      Gracias por contactar a Tiempos Cumplidos!
     actions:
       - label: Back to homepage
         url: /

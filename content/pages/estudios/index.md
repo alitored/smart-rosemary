@@ -1,5 +1,5 @@
 ---
-title: Episodes
+title: Estudios
 sections:
   - type: hero_section
     title: Estudios Proféticos Ordenados

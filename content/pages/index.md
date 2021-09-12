@@ -47,7 +47,7 @@ sections:
   - type: grid_section
     title: Seguir a Tiempos Cumplidos
     grid_items:
-      - title: Apple Podcasts
+      - title: Facebook
         title_align: center
         content_align: center
         actions:

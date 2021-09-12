@@ -140,7 +140,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Question
+        label: Consulta
         default_value: Your question
       - input_type: checkbox
         name: consent

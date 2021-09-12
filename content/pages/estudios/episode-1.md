@@ -1,7 +1,8 @@
 ---
 title: Estudio1- El Natsal
 date: '2020-07-15'
-categories: []
+categories:
+  - content/data/categories/category-sdvyen0g1.json
 thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg

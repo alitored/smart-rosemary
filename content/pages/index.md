@@ -11,7 +11,7 @@ sections:
       - label: Seguir los Estudios
         url: /thank-you
         style: primary
-    image: /images/Parousiath.webp
+    image: /images/fronto.webp
     image_alt: parousia imagen
     media_position: left
     media_width: fifty

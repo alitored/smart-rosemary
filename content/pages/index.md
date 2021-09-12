@@ -107,7 +107,7 @@ sections:
     background_image: /images/venga-tu-reino.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 10
+    background_image_opacity: 30
   - type: form_section
     content: >
       ## Ask A Question

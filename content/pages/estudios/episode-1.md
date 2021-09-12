@@ -44,17 +44,18 @@ subtitle: >-
   que Dios estableció como parte de un juicio emitido para el hombre y que nos
   indica las fechas posibles del Natsal con el fin de que estemos listos.
 ---
+**Natsal: librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar. Palabra Original: **נָצַל
+**Parte del Discurso: **verbo
+**Transliteración: **natsal
+**Ortografía Fonética: **(naw-tsal')
+**Definición: **librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
+**1 Tesalonicenses 4:15-17 NVI**
 
-## Sed Ille, UT Dixi, Vitiose
+15 Conforme a lo dicho por el Señor, afirmamos que nosotros, los que estemos vivos y hayamos quedado hasta la venida del Señor (παρουσία Parousia), 16​ de ninguna manera nos adelantaremos a los que hayan muerto. 16 El Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con trompeta de Dios, y los muertos en Cristo resucitarán primero. 17 Luego los que estemos vivos, los que hayamos quedado, seremos arrebatados junto con ellos en las nubes para encontrarnos con el Señor en el aire. Y así estaremos con el Señor para siempre.
 
-Utrum igitur tibi litteram videor an totas paginas commovere? Potius inflammat, ut coercendi magis quam dedocendi esse videantur. Ne in odium veniam, si amicum destitero tueri. Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur? Quis istud, quaeso, nesciebat? Primum divisit ineleganter; Hoc unum Aristo tenuit: praeter vitia atque virtutes negavit rem esse ullam aut fugiendam aut expetendam. Et ille ridens: Video, inquit, quid agas; In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
+**Mateo 24:37-40 NVI**
 
-Nemo nostrum istius generis asotos iucunde putat vivere.
-Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Quam ob rem tandem, inquit, non satisfacit? Vestri haec verecundius, illi fortasse constantius. Quorum sine causa fieri nihil putandum est. Non modo carum sibi quemque, verum etiam vehementer carum esse? Nemo nostrum istius generis asotos iucunde putat vivere.
+37 La venida del Hijo del hombre (παρουσία Parousia)[17](https://es.wikipedia.org/wiki/Arrebatamiento#cite_note-17)​ será como en tiempos de Noé. 38Porque en los días antes del diluvio comían, bebían y se casaban y daban en casamiento, hasta el día en que Noé entró en el arca; 39y no supieron nada de lo que sucedería hasta que llegó el diluvio y se los llevó a todos. Así será en la venida del Hijo del hombre. (παρουσία Parousia)[18](https://es.wikipedia.org/wiki/Arrebatamiento#cite_note-18)​ 40Estarán dos hombres en el campo: uno será llevado y el otro será dejado.
 
-Expressa vero in iis aetatibus, quae iam confirmatae sunt.
-Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
-Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia.

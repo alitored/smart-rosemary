@@ -43,7 +43,7 @@ sections:
       - input_type: text
         name: Nombre
         label: Nombre
-        default_value: lorem-ipsum
+        default_value: Tu Nombre
         options: []
         is_required: false
     submit_label: Subscribe

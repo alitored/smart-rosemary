@@ -141,7 +141,7 @@ sections:
       - input_type: textarea
         name: message
         label: Consulta
-        default_value: Your question
+        default_value: Tu Consulta
       - input_type: checkbox
         name: consent
         label: >-

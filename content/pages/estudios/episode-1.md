@@ -1,8 +1,5 @@
 ---
 title: Estudio1- El Natsal
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
 date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml

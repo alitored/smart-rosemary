@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Gracias por contactar a Tiempos Cumplidos!
     actions:
-      - label: Back to homepage
+      - label: Volver a la Página
         url: /
         style: primary
     align: center

@@ -45,7 +45,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-    enable_card: true
+    enable_card: false
 seo:
   title: Episodes
   description: This is the episodes page

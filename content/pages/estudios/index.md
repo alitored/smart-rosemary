@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: 'Recibí los Estudios Proféticos '
+    title: Recibí los Estudios Proféticos en tu Email
     title_align: center
     content_align: center
     form_position: bottom

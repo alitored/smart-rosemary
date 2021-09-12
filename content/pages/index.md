@@ -144,9 +144,6 @@ sections:
         default_value: Tu Consulta
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
         is_required: true
     submit_label: Submit
     align_vert: top

@@ -30,7 +30,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Subscribe",
+                "label": "Seguirnos",
                 "url": "/subscribe",
                 "style": "primary"
             }

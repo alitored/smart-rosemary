@@ -112,11 +112,11 @@ sections:
     background_image_position: center center
   - type: form_section
     content: >
-      ## Ask A Question
+      ### Hacer una pregunta&#xA;
 
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+      Estoy de acuerdo con cualquier tipo de pregunta y responderé tantas como
+      pueda.
 
 
 

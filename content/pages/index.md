@@ -147,7 +147,7 @@ sections:
         is_required: true
         label: >-
           Entiendo que este formulario está almacenando mi información enviada
-          para que puedan ser contactados.
+          para que pueda ser contactados.
     submit_label: Submit
     align_vert: top
     padding_top: medium

@@ -112,13 +112,11 @@ sections:
     background_image_position: center center
   - type: form_section
     content: >
-      ### Hacer una pregunta&#xA;
+      ## Hacer una pregunta&#xA;
 
 
       Estoy de acuerdo con cualquier tipo de pregunta y responderé tantas como
       pueda.
-
-
 
 
       ![](/images/shofar.webp)

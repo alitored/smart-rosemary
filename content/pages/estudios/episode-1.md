@@ -40,8 +40,8 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: >-
-  Fundamentos bíblicos cuando será el Natsal de acuerdo a los 120 jubileos que
-  Dios estableció como parte de un juicio emitido para el hombre y que nos
+  Fundamentos bíblicos sobre cuando será el Natsal de acuerdo a los 120 jubileos
+  que Dios estableció como parte de un juicio emitido para el hombre y que nos
   indica las fechas posibles del Natsal con el fin de que estemos listos. Es un
   tema que no te lo puedes perder.
 ---

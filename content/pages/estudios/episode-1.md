@@ -6,7 +6,7 @@ categories:
 thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: /images/cielo-azul.webp
-image_alt: Podcast 1 placeholder image
+image_alt: Estudio
 image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"

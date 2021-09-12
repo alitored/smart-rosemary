@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Gracias!
     subtitle: >-
-      Thank you for testing this theme!
+      Gracias por !
     actions:
       - label: Back to homepage
         url: /

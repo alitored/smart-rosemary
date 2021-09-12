@@ -62,7 +62,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image: /images/face-d72522f6.png
+        image: /images/face1-75e5b594.png
       - title: Spotify
         title_align: center
         content_align: center

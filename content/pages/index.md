@@ -12,7 +12,7 @@ sections:
         url: /thank-you
         style: primary
     image: /images/Parousiath.webp
-    image_alt: Hero section placeholder image
+    image_alt: 'parousia '
     media_position: left
     media_width: fifty
     align: left

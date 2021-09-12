@@ -45,11 +45,11 @@ subtitle: >-
   que Dios estableció como parte de un juicio emitido para el hombre y que nos
   indica las fechas posibles del Natsal con el fin de que estemos listos.
 ---
-**Natsal: librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar. Palabra Original: **נָצַל
-**Parte del Discurso: **verbo
-**Transliteración: **natsal
-**Ortografía Fonética: **(naw-tsal')
-**Definición: **librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar.
+\*\*Natsal: librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar. Palabra Original: \*\*נָצַל
+\*\*Parte del Discurso: \*\*verbo
+\*\*Transliteración: \*\*natsal
+\*\*Ortografía Fonética: \*\*(naw-tsal')
+\*\*Definición: \*\*librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar.
 
 **1 Tesalonicenses 4:15-17 NVI**
 
@@ -57,6 +57,4 @@ subtitle: >-
 
 **Mateo 24:37-40 NVI**
 
-37 La venida del Hijo del hombre (παρουσία Parousia)[17](https://es.wikipedia.org/wiki/Arrebatamiento#cite_note-17)​ será como en tiempos de Noé. 38Porque en los días antes del diluvio comían, bebían y se casaban y daban en casamiento, hasta el día en que Noé entró en el arca; 39y no supieron nada de lo que sucedería hasta que llegó el diluvio y se los llevó a todos. Así será en la venida del Hijo del hombre. (παρουσία Parousia)[18](https://es.wikipedia.org/wiki/Arrebatamiento#cite_note-18)​ 40Estarán dos hombres en el campo: uno será llevado y el otro será dejado.
-
-
+37 La venida del Hijo del hombre (παρουσία Parousia) 17​ será como en tiempos de Noé. 38 Porque en los días antes del diluvio comían, bebían y se casaban y daban en casamiento, hasta el día en que Noé entró en el arca; 39 y no supieron nada de lo que sucedería hasta que llegó el diluvio y se los llevó a todos. Así será en la venida del Hijo del hombre. (παρουσία Parousia) 18​ 40 Estarán dos hombres en el campo: uno será llevado y el otro será dejado.

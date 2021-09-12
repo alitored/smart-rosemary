@@ -2,7 +2,7 @@
 title: Gracias
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Gracias!
     subtitle: >-
       Thank you for testing this theme!
     actions:

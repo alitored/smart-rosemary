@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: /images/olas.svg
+    background_image: /images/svgpatterns.jpg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 28

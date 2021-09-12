@@ -1,5 +1,5 @@
 ---
-title: Estudio1- El Rapto
+title: Estudio1- El Natsal
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.

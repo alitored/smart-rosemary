@@ -69,7 +69,7 @@ sections:
         content_align: center
         actions:
           - label: Seguir
-            url: /thank-you
+            url: 'https://twitter.com/eltiempoha'
             style: secondary
             has_icon: true
             icon: arrow-right

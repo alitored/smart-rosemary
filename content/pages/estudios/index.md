@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: /images/patter-blue.svg
+    background_image: /images/circulos.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 58

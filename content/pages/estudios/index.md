@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Estudios Proféticos Ordenados
-    subtitle: List of episodes in order
+    subtitle: Listado de Estudios
     align: center
     padding_top: medium
     padding_bottom: small

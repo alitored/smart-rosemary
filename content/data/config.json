@@ -9,7 +9,7 @@
     "header": {
         "title": "Tiempos Cumplidos",
         "logo_alt": "Tiempos Cumplidos Logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Inicio",

@@ -159,7 +159,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Tiempos Cumplidos
-  description: The preview of the Podcaster theme
+  description: Estudios de la Profecía Bíblica relacionados con la Venida de Jesucristo
   extra:
     - name: 'og:type'
       value: website

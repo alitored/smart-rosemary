@@ -148,7 +148,7 @@ sections:
         label: >-
           Entiendo que este formulario está almacenando mi información enviada
           para que pueda ser contactado.
-    submit_label: Submit
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium

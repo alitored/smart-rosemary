@@ -46,7 +46,7 @@ sections:
         default_value: Tu Nombre
         options: []
         is_required: false
-    submit_label: Subscribe
+    submit_label: Quiero recibirlo
     padding_top: medium
     padding_bottom: medium
     has_border: true

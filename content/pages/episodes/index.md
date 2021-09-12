@@ -42,7 +42,7 @@ sections:
         is_required: true
       - input_type: text
         name: Nombre
-        label: lorem-ipsum
+        label: Nombre
         default_value: lorem-ipsum
         options: []
         is_required: false

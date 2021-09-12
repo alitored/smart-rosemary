@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Estudios de la Profecía
     subtitle: >-
-      Pero del día y la hora nadie sabe,  ni aun los ángeles de los cielos, 
-      sino sólo mi Padre.
+      Pero del día y la hora nadie sabe,  ni aun los ángeles de los cielos, sino
+      sólo mi Padre.
     content: "***“He aquí que viene con las nubes y todo ojo le verá, y los que le traspasaron; y todos los linajes de la tierra harán lamentación por él. Sí, amén”***\_**(Apocalipsis 1:7)**\_\n"
     actions:
       - label: Subscribe to Podcast

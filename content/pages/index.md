@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Estudios de la Profecía
     subtitle: Optional hero section subtitle
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: "***“He aquí que viene con las nubes y todo ojo le verá, y los que le traspasaron; y todos los linajes de la tierra harán lamentación por él. Sí, amén”***\_***(Apocalipsis 1:7)**\_*\n\n"
     actions:
       - label: Subscribe to Podcast
         url: /thank-you

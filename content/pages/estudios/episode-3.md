@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-03-11'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-3.jpg
+thumb_image: /images/dolores.webp
 thumb_image_alt: Episode 3 placeholder image
 image: images/post-3.jpg
 image_alt: Episode 3 placeholder image

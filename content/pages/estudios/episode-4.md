@@ -12,7 +12,7 @@ categories:
 thumb_image: /images/daniel.webp
 thumb_image_alt: Estudio4- Las 70 semanas de Daniel
 image: /images/Las-70-semanas-de-Daniel.webp
-image_alt: 'Estudio 4 '
+image_alt: Estudio 4 Las 70 Semanas de Daniel
 image_position: right
 episode_embed_html: >-
   <iframe width="560" height="315"

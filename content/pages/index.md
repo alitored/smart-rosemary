@@ -9,7 +9,7 @@ sections:
     content: "***“He aquí que viene con las nubes y todo ojo le verá, y los que le traspasaron; y todos los linajes de la tierra harán lamentación por él. Sí, amén”***\_**(Apocalipsis 1:7)**\_\n"
     actions:
       - label: Seguir los Estudios
-        url: /thank-you
+        url: /estudios
         style: primary
     image: /images/fronto.webp
     image_alt: parousia imagen

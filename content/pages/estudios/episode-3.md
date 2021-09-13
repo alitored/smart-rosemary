@@ -10,7 +10,7 @@ categories:
 thumb_image: /images/dolores.webp
 thumb_image_alt: Estudio3 Principio de Dolores
 image: /images/dolores-44445916.webp
-image_alt: Estudio3 natsal
+image_alt: 'Estudio3 '
 image_position: left
 seo:
   title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit

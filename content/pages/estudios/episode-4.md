@@ -3,7 +3,7 @@ title: 'Estudio4- Las 70 Semanas de Daniel '
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-09-17'
+date: '2020-10-17'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-4.jpg

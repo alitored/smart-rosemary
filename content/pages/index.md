@@ -46,6 +46,7 @@ sections:
     background_image: /images/olas-77f9fa85.svg
     section_id: Tiempos Cumplidos
     category: content/data/categories/category-4jkcdeb8p.json
+    author: content/data/team/person-h1a69nq2g.json
   - type: grid_section
     title: Seguir a Tiempos Cumplidos
     grid_items:

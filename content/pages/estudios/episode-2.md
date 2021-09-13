@@ -1,5 +1,5 @@
 ---
-title: Estudio2- El Arrebatamiento de la Iglesia" 7 Señales en curso
+title: 'Estudio2- El Arrebatamiento de la Iglesia: 7 Señales en curso'
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.

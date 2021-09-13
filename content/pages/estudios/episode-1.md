@@ -1,7 +1,8 @@
 ---
 title: Estudio1- El Natsal
 date: '2020-07-15'
-categories: []
+categories:
+  - content/data/categories/category-tnn8ki3wp.json
 thumb_image: /images/light-beaming-against-blue-sky.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: /images/cielo-azul.webp

@@ -1,5 +1,5 @@
 ---
-title: Estudio1- El Natsal
+title: 'Estudio1- El Natsal: 120 Años Jubilares'
 date: '2021-07-08'
 categories:
   - content/data/categories/category-tnn8ki3wp.json

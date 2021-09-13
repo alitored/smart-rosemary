@@ -40,7 +40,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: /images/olas3.svg
+    background_image: /images/olas-08ab81b1.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 48

@@ -26,6 +26,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 38
+    section_id: Tiempos Cumplidos
   - type: form_section
     title: Recibí los Estudios Proféticos en tu Email
     title_align: center

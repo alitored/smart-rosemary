@@ -47,6 +47,8 @@ seo:
 layout: post
 author: content/data/team/person-k5947zdyl.json
 image: /images/70-semanas-de-Daniel.webp
+tags:
+  - content/data/tags/tag-61g4yceqd.json
 ---
 En Daniel 9:24-27 encontramos una detallada y compleja profecía acerca de la fecha en que vendría el Mesías (Jesucristo) a la tierra, el establecimiento del Nuevo Pacto y las consecuencias de algunos de los eventos que precederán la segunda venida de Cristo.
 

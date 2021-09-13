@@ -7,8 +7,7 @@ subtitle: >-
   siendo acelerado de una forma mas clara para nuestros días. A continuación la
   semana 70 de Daniel, su explicación y origen.
 date: '2020-10-29'
-categories:
-  - content/data/categories/season-1.yaml
+categories: []
 thumb_image: /images/daniel.webp
 thumb_image_alt: Estudio4- Las 70 semanas de Daniel
 image: images/post-4.jpg

@@ -1,5 +1,5 @@
 ---
-title: Estudio4
+title: Estudio4- Las 70 Semanas de Daniel" Explicación y Origen
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.

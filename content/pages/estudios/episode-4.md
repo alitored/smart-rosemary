@@ -2,7 +2,7 @@
 title: 'Estudio4- Las 70 Semanas de Daniel '
 subtitle: >-
   En el siguiente video analizamos las 70 semanas proféticas de Daniel, en donde
-  podrás analizar su desarrollo profético con una explicación concisa y clara,
+  podrás conocer su desarrollo profético con una explicación concisa y clara,
   pero lo mas sorprendente es que el tiempo para llegar a la Semana 70, está
   siendo acelerado de una forma mas clara para nuestros días. A continuación la
   semana 70 de Daniel, su explicación y origen.

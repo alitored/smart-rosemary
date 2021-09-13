@@ -1,8 +1,11 @@
 ---
 title: 'Estudio2- El Arrebatamiento de la Iglesia: 7 Señales en curso'
 subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+  El Arrebatamiento de la iglesia, es el evento mas importante que se viene en
+  lo que respecta la profecía bíblica, y será durante los próximos años, meses o
+  días, o quizás puede suceder mientras ves este video; en el siguiente video,
+  estaremos analizando las 7 señales, que nos indican que tan cerca estamos de
+  este glorioso evento. 
 date: '2020-08-14'
 categories:
   - content/data/categories/season-1.yaml

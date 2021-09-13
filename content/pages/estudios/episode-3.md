@@ -1,5 +1,5 @@
 ---
-title: 'Estudio3- '
+title: Estudio3- El Principio de Dolores" 3 Etapas Finales
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.

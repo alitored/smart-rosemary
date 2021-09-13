@@ -9,6 +9,7 @@ subtitle: >-
 date: '2020-10-29'
 categories:
   - content/data/categories/category-8v3cfmfnu.json
+  - content/data/categories/category-jrx5gt64x.json
 thumb_image: /images/daniel.webp
 thumb_image_alt: Estudio4- Las 70 semanas de Daniel
 image_alt: Estudio 4 Las 70 Semanas de Daniel

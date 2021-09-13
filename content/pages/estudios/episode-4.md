@@ -7,7 +7,7 @@ date: '2020-10-29'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/daniel.webp
-thumb_image_alt: Episode 4 placeholder image
+thumb_image_alt: 'Estudio4- '
 image: images/post-4.jpg
 image_alt: Episode 4 placeholder image
 image_position: right

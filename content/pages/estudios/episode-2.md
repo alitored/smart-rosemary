@@ -3,7 +3,7 @@ title: 'Estudio2- El Arrebatamiento de la Iglesia: 7 Señales en curso'
 subtitle: >-
   El Arrebatamiento de la iglesia, es el evento mas importante que se viene en
   lo que respecta la profecía bíblica, y será durante los próximos años, meses o
-  días, estaremos analizando las 7 señales, que nos indican que tan cerca
+  días, estaremos analizando las 7 señales, que nos indican qué tan cerca
   estamos de este glorioso evento.
 date: '2020-08-14'
 categories:

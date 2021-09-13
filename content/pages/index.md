@@ -168,7 +168,7 @@ seo:
       value: Tiempos Cumplidos
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: las Profecías Bíblicas Contadas y Explicadas
       keyName: property
     - name: 'og:image'
       value: images/hero.png

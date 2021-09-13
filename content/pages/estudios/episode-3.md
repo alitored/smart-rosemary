@@ -46,9 +46,10 @@ episode_embed_html: >-
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
+Ahora, es el final de los últimos días. Muchos hermanos y hermanas, que realmente creen en el Señor y esperan Su regreso, deben tener estas preguntas: en Apocalipsis 22:12 dijo el Señor Jesús: “**He aquí, yo vengo pronto**”. Él nos prometió que regresaría, entonces, ¿ha regresado ya? ¿Cómo podemos saber si ha regresado o no?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+## 1. La aparición de varios desastres
+
+Una de las señales del regreso del Señor es la aparición de desastres en todo el mundo. Tal como Mateo 24:6-8 dicen: “**Y habréis de oír de guerras y rumores de guerras. ¡Cuidado! No os alarméis, porque es necesario que todo esto suceda; pero todavía no es el fin. Porque se levantará nación contra nación, y reino contra reino, y en diferentes lugares habrá hambre y terremotos. Pero todo esto es solo el comienzo de dolores**”.

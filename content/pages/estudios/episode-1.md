@@ -1,6 +1,6 @@
 ---
 title: Estudio1- El Natsal
-date: '2021-07-15'
+date: '2021-07-08'
 categories:
   - content/data/categories/category-tnn8ki3wp.json
 thumb_image: /images/light-beaming-against-blue-sky.jpg

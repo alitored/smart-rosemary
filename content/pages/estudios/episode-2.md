@@ -7,7 +7,7 @@ date: '2020-08-14'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/parusia.webp
-thumb_image_alt: Estudio2-
+thumb_image_alt: Estudio2-parousia
 image: images/post-2.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right

@@ -168,7 +168,7 @@ seo:
       value: Tiempos Cumplidos
       keyName: property
     - name: 'og:description'
-      value: las Profecías Bíblicas Contadas y Explicadas
+      value: Las Profecías Bíblicas Contadas y Explicadas
       keyName: property
     - name: 'og:image'
       value: /images/fronto-43cbbfcb.webp

@@ -42,7 +42,7 @@ sections:
     background_color: none
     background_image_repeat: repeat
     background_image_size: auto
-    background_image_opacity: 48
+    background_image_opacity: 38
     background_image: /images/olas-77f9fa85.svg
   - type: grid_section
     title: Seguir a Tiempos Cumplidos

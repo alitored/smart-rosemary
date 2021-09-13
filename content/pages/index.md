@@ -171,7 +171,7 @@ seo:
       value: las Profecías Bíblicas Contadas y Explicadas
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/fronto-43cbbfcb.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

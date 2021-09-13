@@ -8,6 +8,7 @@ subtitle: >-
 date: '2020-08-14'
 categories:
   - content/data/categories/category-sdvyen0g1.json
+  - content/data/categories/category-h40han8yx.json
 thumb_image: /images/parusia.webp
 thumb_image_alt: Estudio2-parousia
 image: /images/parusia-cfa6552e.webp

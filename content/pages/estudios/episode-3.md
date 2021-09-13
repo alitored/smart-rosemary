@@ -45,6 +45,8 @@ episode_embed_html: >-
   src="https://www.youtube.com/embed/V3SfIB7qmwU" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+tags:
+  - content/data/tags/tag-qvdznjd0p.json
 ---
 Ahora, es el final de los últimos días. Muchos hermanos y hermanas, que realmente creen en el Señor y esperan Su regreso, deben tener estas preguntas: en Apocalipsis 22:12 dijo el Señor Jesús: “**He aquí, yo vengo pronto**”. Él nos prometió que regresaría, entonces, ¿ha regresado ya? ¿Cómo podemos saber si ha regresado o no?
 

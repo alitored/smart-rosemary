@@ -44,6 +44,7 @@ subtitle: >-
   Fundamentos bíblicos sobre cuando será el Natsal de acuerdo a los 120 jubileos
   que Dios estableció como parte de un juicio emitido para el hombre y que nos
   indica las fechas posibles del Natsal con el fin de que estemos listos.
+author: content/data/team/person-w8tfkihj7.json
 ---
 \*\*Natsal: librará, librado, Líbrame, para despojar, saqueo, entregar a uno mismo, ser entregado, arrebatar. Palabra Original: \*\*נָצַל
 \*\*Parte del Discurso: \*\*verbo

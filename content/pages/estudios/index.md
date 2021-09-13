@@ -25,7 +25,7 @@ sections:
     background_image: /images/olas-azul.svg
     background_image_repeat: repeat
     background_image_size: auto
-    background_image_opacity: 68
+    background_image_opacity: 38
   - type: form_section
     title: Recibí los Estudios Proféticos en tu Email
     title_align: center

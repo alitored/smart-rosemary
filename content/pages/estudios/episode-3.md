@@ -5,7 +5,8 @@ subtitle: >-
   etapas para la tierra, e incluirán una serie de eventos globales que serán
   vistos con claridad en el mundo.
 date: '2021-03-11'
-categories: []
+categories:
+  - content/data/categories/category-xabu6yr4r.json
 thumb_image: /images/dolores.webp
 thumb_image_alt: Estudio3 Principio de Dolores
 image: /images/dolores-44445916.webp

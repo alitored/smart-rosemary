@@ -1,8 +1,9 @@
 ---
 title: Estudio3- El Principio de Dolores 3 Etapas Finales
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  El principio de dolores que la profecía bíblica nos declara vendrá en varias
+  etapas para la tierra, e incluirán una serie de eventos globales que serán
+  vistos con claridad en el mundo.
 date: '2021-03-11'
 categories:
   - content/data/categories/season-1.yaml

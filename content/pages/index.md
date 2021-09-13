@@ -165,7 +165,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Tiempos Cumplidos
       keyName: property
     - name: 'og:description'
       value: The preview of the Podcaster theme

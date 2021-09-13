@@ -66,7 +66,7 @@
             },
             {
                 "label": "Apoyos",
-                "url": "#",
+                "url": "/apoyos",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",

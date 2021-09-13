@@ -1,8 +1,7 @@
 ---
 title: 'Estudio1- El Natsal: 120 Años Jubilares'
 date: '2021-07-08'
-categories:
-  - content/data/categories/category-tnn8ki3wp.json
+categories: []
 thumb_image: /images/light-beaming-against-blue-sky.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: /images/cielo-azul.webp

@@ -7,7 +7,7 @@ date: '2021-03-11'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/dolores.webp
-thumb_image_alt: Episode 3 placeholder image
+thumb_image_alt: Estudio3 Principio de Dolores
 image: images/post-3.jpg
 image_alt: Episode 3 placeholder image
 image_position: left

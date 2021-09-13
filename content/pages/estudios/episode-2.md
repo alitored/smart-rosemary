@@ -44,6 +44,7 @@ episode_embed_html: >-
   src="https://www.youtube.com/embed/AZpPWsewpZE" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+author: content/data/team/person-pmwlrm33s.json
 ---
 Ahora nos encontramos al final de los últimos días y muchos hermanos y hermanas que creen sinceramente en el Señor y esperan Su regreso seguramente deben estar pensando en esta cuestión. En el capítulo 22, versículo 12 del Apocalipsis, el Señor Jesús profetizó: “**He aquí, yo vengo pronto**”. El Señor nos prometió que vendría de nuevo en los últimos días; así pues ¿ya ha vuelto? Esta pregunta es muy importante para nosotros los cristianos, así que, ¿cómo sabemos exactamente si el Señor ha regresado o no? En realidad, el Señor Jesús ya nos lo ha dicho a través de las [profecías bíblicas](https://www.evangelio-es.org/category/temas-del-evangelio/profecias-biblicas) y, si reunimos todos los datos y los ponderamos seriamente, entonces encontraremos la respuesta.
 

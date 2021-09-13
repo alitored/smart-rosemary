@@ -3,7 +3,7 @@ title: Estudio3- El Principio de Dolores 3 Etapas Finales
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-09-03'
+date: '2021-03-03'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg

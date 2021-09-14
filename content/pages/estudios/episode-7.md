@@ -41,6 +41,7 @@ episode_embed_html: >-
   src="https://www.youtube.com/embed/_FzqjUsb36w" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+author: content/data/team/person-fwdmo6vht.json
 ---
 Hablar de orígenes, es hablar de raíces y hablar de raíces es hablar -como lo dijera el Dr. Dan Ben Avraham – de lo que no se ve del árbol, pero que lo sostiene y alimenta….
 

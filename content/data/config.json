@@ -70,11 +70,6 @@
                 "no_follow": false
             },
             {
-                "label": "Seguirnos",
-                "url": "/subscribe",
-                "style": "primary"
-            },
-            {
                 "label": "Nosotros",
                 "url": "/nosotros",
                 "style": "link",
@@ -83,6 +78,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Seguirnos",
+                "url": "/subscribe",
+                "style": "primary"
             }
         ],
         "logo": "/images/logo.png"

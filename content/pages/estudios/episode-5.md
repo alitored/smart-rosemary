@@ -1,10 +1,10 @@
 ---
 title: 'Estudio5- El Primer Sello de Apocalipsis: El jinete'
 subtitle: >-
-  El primer sello de Apocalipsis inicia la Semana 70 de Daniel, en el siguiente
-  video, estaremos analizando que está pasando con este sello bíblico, y si ya
-  se abrió para el mundo entero, o si debemos de esperar otro acontecimiento
-  profético. Acompañanos a estudiar al primer jinete del Apocalipsis. 
+  El primer sello de Apocalipsis inicia la Semana 70 de Daniel, estaremos
+  analizando que está pasando con este sello bíblico, y si ya se abrió para el
+  mundo entero, o si debemos de esperar otro acontecimiento profético.
+  Acompañanos a estudiar al primer jinete del Apocalipsis. 
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml

@@ -16,7 +16,7 @@ sections:
         content_align: center
         actions:
           - label: Seguir
-            url: /thank-you
+            url: 'https://www.facebook.com/TiemposCumplidos/'
             style: secondary
             has_icon: true
             icon: arrow-right

@@ -5,7 +5,8 @@ subtitle: >-
   único hijo, Isaac, y finalmente Dios lo bendijo permitiendo que su
   descendencia se multiplicara y formara grandes naciones.
 date: '2020-10-29'
-categories: []
+categories:
+  - content/data/categories/category-56s1714h9.json
 thumb_image: /images/abraham-e-isaac.webp
 thumb_image_alt: Estudio6- Abraham
 image: images/post-6.jpg

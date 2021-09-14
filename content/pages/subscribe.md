@@ -11,7 +11,7 @@ sections:
     has_border: false
   - type: grid_section
     grid_items:
-      - title: Apple Podcasts
+      - title: Facebook
         title_align: center
         content_align: center
         actions:

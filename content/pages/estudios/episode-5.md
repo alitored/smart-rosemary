@@ -1,5 +1,5 @@
 ---
-title: Esxittudio5- El Primer Sello de Apocalipsis” El jinete
+title: Esxittudio5- El Primer Sello de Apocalipsis El jinete
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.

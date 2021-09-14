@@ -2,8 +2,7 @@
 title: 'Estudios7- Raíces hebreas y cristianas de la FE '
 subtitle: '“…sabe que no sustentas tú a la raíz, sino la raíz a ti….” – Romanos 11:18'
 date: '2020-11-15'
-categories:
-  - content/data/categories/season-1.yaml
+categories: []
 thumb_image: /images/raices.webp
 thumb_image_alt: Estudios7- Raíces
 image: /images/raices-91fcfda0.webp

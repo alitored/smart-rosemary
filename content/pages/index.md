@@ -44,6 +44,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 38
     section_id: Tiempos Cumplidos
+    background_image: /images/cielo.svg
   - type: form_section
     content: >
       ## Hacer una pregunta&#xA;

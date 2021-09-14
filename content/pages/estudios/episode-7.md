@@ -1,8 +1,6 @@
 ---
 title: 'Estudios7- Raíces hebreas y cristianas de la FE '
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: '“…sabe que no sustentas tú a la raíz, sino la raíz a ti….” – Romanos 11:18'
 date: '2020-11-15'
 categories:
   - content/data/categories/season-1.yaml

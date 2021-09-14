@@ -155,7 +155,7 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-episode"
+        "anncmnt_id": "nuevo-episodio"
     },
     "domain": "https://tiemposcumplidos.netlify.app/",
     "favicon": "/images/reloji.png"

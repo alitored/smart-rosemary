@@ -1,8 +1,9 @@
 ---
 title: 'Estudio6- Quién fue ABRAHAM: El PADRE de la FE '
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  Abraham tenía fe en Dios, estaba dispuesto a ofrecerle en sacrificio a su
+  único hijo, Isaac, y finalmente Dios lo bendijo permitiendo que su
+  descendencia se multiplicara y formara grandes naciones.
 date: '2020-10-29'
 categories:
   - content/data/categories/season-1.yaml

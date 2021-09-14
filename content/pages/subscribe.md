@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: Seguirnos
-    subtitle: Pick your favorite podcast platform
+    subtitle: En todas las Redes Sociales
     align: center
     padding_top: large
     padding_bottom: none

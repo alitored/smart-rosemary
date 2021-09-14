@@ -7,7 +7,7 @@ date: '2020-10-29'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/abraham-e-isaac.webp
-thumb_image_alt: Episode 6 placeholder image
+thumb_image_alt: Estudio6- Abraham
 image: images/post-6.jpg
 image_alt: Episode 6 placeholder image
 image_position: right

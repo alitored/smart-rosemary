@@ -1,5 +1,5 @@
 ---
-title: 'Estudios7- Raíces hebreas y CRISTIANAS de la FE '
+title: 'Estudios7- Raíces hebreas y cristianas de la FE '
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.

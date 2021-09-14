@@ -42,7 +42,7 @@ sections:
     background_color: none
     background_image_repeat: repeat
     background_image_size: auto
-    background_image_opacity: 38
+    background_image_opacity: 30
     section_id: Tiempos Cumplidos
     background_image: /images/olas-azul.svg
   - type: form_section

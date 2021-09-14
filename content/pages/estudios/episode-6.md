@@ -10,7 +10,7 @@ categories:
 thumb_image: /images/abraham-e-isaac.webp
 thumb_image_alt: Estudio6- Abraham
 image: /images/abraham-e-isaac-09dbf176.webp
-image_alt: Episode 6 placeholder image
+image_alt: Estudio
 image_position: right
 seo:
   title: Episode 6 - Amet Nulla Facilisi Morbi Tempus

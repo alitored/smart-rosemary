@@ -23,7 +23,7 @@ sections:
             icon_position: right
         actions_align: center
         image: /images/face1-95ac7908.png
-        image_alt: Apple Podcasts icon
+        image_alt: Facebook
         image_position: top
         image_align: center
         image_has_padding: true

@@ -9,7 +9,7 @@ categories:
   - content/data/categories/category-56s1714h9.json
 thumb_image: /images/abraham-e-isaac.webp
 thumb_image_alt: Estudio6- Abraham
-image: images/post-6.jpg
+image: /images/abraham-e-isaac-09dbf176.webp
 image_alt: Episode 6 placeholder image
 image_position: right
 seo:

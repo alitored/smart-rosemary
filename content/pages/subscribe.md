@@ -68,6 +68,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
+    background_image: /images/circulos-979c845c.svg
 seo:
   title: Subscribe
   description: This is the subscribe page

@@ -6,7 +6,6 @@ subtitle: >-
   mundo entero, o si debemos de esperar otro acontecimiento profético.
 date: '2020-10-12'
 categories:
-  - content/data/categories/season-1.yaml
   - content/data/categories/category-0okb2ayvd.json
 thumb_image: /images/eljinete.webp
 thumb_image_alt: Estudio5-El Jinete

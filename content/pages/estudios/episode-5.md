@@ -10,7 +10,7 @@ categories:
 thumb_image: /images/eljinete.webp
 thumb_image_alt: Estudio5-El Jinete
 image: /images/primer jinete.webp
-image_alt: 'Estudio5- '
+image_alt: Estudio5- Primer Sello
 image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"

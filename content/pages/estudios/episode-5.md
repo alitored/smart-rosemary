@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-0okb2ayvd.json
 thumb_image: /images/eljinete.webp
-thumb_image_alt: Episode 5 placeholder image
+thumb_image_alt: Estudio5-El Jinete
 image: images/post-5.jpg
 image_alt: Episode 5 placeholder image
 image_position: left

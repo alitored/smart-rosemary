@@ -7,7 +7,7 @@ date: '2020-11-15'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/raices.webp
-thumb_image_alt: 'Estudios7- '
+thumb_image_alt: Estudios7- Raíces
 image: images/post-7.jpg
 image_alt: Episode 7 placeholder image
 image_position: left

@@ -68,7 +68,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
-    background_image: /images/nubes-575a5cc0.svg
+    background_image: /images/olas4.svg
 seo:
   title: Subscribe
   description: This is the subscribe page

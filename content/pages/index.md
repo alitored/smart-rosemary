@@ -45,6 +45,7 @@ sections:
     background_image_opacity: 30
     section_id: Tiempos Cumplidos
     background_image: /images/olas-azul.svg
+    author: content/data/team/person-w8tfkihj7.json
   - type: form_section
     content: >
       ## Hacer una pregunta&#xA;

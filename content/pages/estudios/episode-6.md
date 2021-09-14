@@ -1,5 +1,5 @@
 ---
-title: Estudio6- Quien fue ABRAHAM
+title: Estudio6- Quién fue ABRAHAM
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.

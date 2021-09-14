@@ -39,7 +39,7 @@ sections:
             icon_position: right
         actions_align: center
         image: /images/twit-8bdedc88.png
-        image_alt: Spotify icon
+        image_alt: Tiempos Cumplidos en Twitter
         image_position: top
         image_align: center
         image_has_padding: true

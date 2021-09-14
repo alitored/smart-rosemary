@@ -105,7 +105,6 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    background_image: /images/venga-tu-reino.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 15
